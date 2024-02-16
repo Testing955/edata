@@ -44,6 +44,11 @@ System.out.print(" ");
 }
 for(int p =0; p<=i;p++)
 {
+	
+	
+	
+	
+	
 if (currentChar<='z')
 {
 System.out.print(currentChar+"  ");
